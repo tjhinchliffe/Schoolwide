@@ -2,8 +2,14 @@
 
 Windows downloads for MOSAIC Schoolwide.
 
-[Windows releases and downloads](https://github.com/tjhinchliffe/Schoolwide/releases)
+[Download the Windows x64 installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v0.2.0-preview.1/Schoolwide-0.2.0-Windows-x64-Setup.exe)
 
-Schoolwide brings assessment evidence together in Dashboard, Table and Students views, with Excel and offline interactive HTML exports.
+[Release notes and SHA256 checksum](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v0.2.0-preview.1)
 
-This is a download-only repository. Application source is maintained in a private build repository. School datasets, student records, profiles, database backups and development artifacts are not published here.
+Unsigned Windows preview, version 0.2.0. Run the installer, then open **MOSAIC Schoolwide**. Python and the PDF browser are bundled; no separate Python or Node installation is needed.
+
+The exact installer was installed and verified on a Windows GitHub runner using its bundled runtime. Checks covered imports, configuration, zoom, backup/restore, Excel/PDF exports, student templates, and the offline Dashboard, Table and Students HTML viewer.
+
+Use **Configuration** to set up your school profile and current student list, then **Import** to bring in assessment results.
+
+This is a download-only repository. Application source is maintained in a private build repository. No school database, imported student lists, user profiles or development artifacts are included in the public downloads.
