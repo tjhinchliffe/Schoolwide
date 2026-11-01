@@ -12,4 +12,4 @@ The exact installer was installed and verified on a Windows GitHub runner using 
 
 Use **Configuration** to set up your school profile and current student list, then **Import** to bring in assessment results.
 
-This is a download-only repository. Application source is maintained in a private build repository. No school database, imported student lists, user profiles or development artifacts are included in the public downloads.
+This is a download-only repository. Application source is maintained in a private build repository. No school database, imported student lists or user profiles are included in the public downloads.
