@@ -1,0 +1,19 @@
+name: Upload verified Schoolwide packages
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  upload:
+    if: github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Validate package archives and upload draft release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SCHOOLWIDE_PACKAGE_MANIFEST: ${{ secrets.SCHOOLWIDE_PACKAGE_MANIFEST }}
+        run: python3 scripts/upload-verified-packages.py
