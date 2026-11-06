@@ -10,6 +10,8 @@
 
 [Release notes and SHA256 checksums](https://github.com/tjhinchliffe/Schoolwide/releases/tag/V2027.0.2)
 
+**Windows download refreshed 6 November 2026:** the Windows installer now includes the in-app updater and the previously verified Windows improvements. The Mac downloads remain the original 3 November builds. All still report version **2027.0.2**. If you already have an older Windows 2027.0.2 installation, download and run the Windows installer once to obtain the updater; future higher-version releases can then be offered inside Schoolwide.
+
 On Windows, run the installer. On a Mac, open the disk image and drag **MOSAIC Schoolwide** into **Applications**, then open it there. Use **About This Mac** to check whether your Mac has an Apple chip or an Intel processor. The Mac packages are tested on macOS 15.
 
 Python and the PDF browser are included. No separate Python, Node or developer tools are needed.
