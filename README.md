@@ -4,13 +4,13 @@
 
 | Your computer | Download |
 | --- | --- |
-| Windows — 2027.0.4 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.4/Schoolwide-2027.0.4-Windows-x64-Setup.exe) |
-| Mac with an Apple chip (M-series) — 2027.0.3 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.3/Schoolwide-2027.0.3-macOS-arm64.dmg) |
-| Mac with an Intel processor — 2027.0.3 | [Intel Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.3/Schoolwide-2027.0.3-macOS-x64.dmg) |
+| Windows — 2027.0.5 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-Windows-x64-Setup.exe) |
+| Mac with an Apple chip (M-series) — 2027.0.5 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-macOS-arm64.dmg) |
+| Mac with an Intel processor — 2027.0.5 | [Intel Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-macOS-x64.dmg) |
 
-[Windows 2027.0.4 update notes](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.0.4) · [Mac 2027.0.3 update notes](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.0.3)
+[Read what’s new in Schoolwide 2027.0.5](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.0.5)
 
-The latest Windows version is **2027.0.4**. Both Mac downloads remain at **2027.0.3**. Your existing school data and settings are kept when updating.
+Windows and both Mac downloads are version **2027.0.5**. Your existing school data and settings are kept when updating.
 
 ## Install or update
 
@@ -22,7 +22,15 @@ If your school computer asks for approval to install Schoolwide, contact your sc
 
 ## What’s new
 
-**Windows 2027.0.4:** see installation progress during updates, reopen Schoolwide with Finish, and get clearer guidance if you open it before installation has finished.
+**Teacher notes are now easier to bring into Schoolwide:**
+
+- Download the blank **Teacher Notes** template from **Manage → Assessment Types**.
+- Upload it through the normal Import screen and check student matches.
+- Choose Student Context Notes, SEN Notes or a custom-named notes column.
+- Keep the original date, teacher and class with each comment, with year-specific notes under their relevant year and year level.
+- Review or remove a notes upload from **Manage → Imported Data**, while keeping other uploads and notes added separately.
+
+Windows updates continue to show installation progress and reopen Schoolwide when you choose Finish.
 
 **Included in all downloads:**
 
