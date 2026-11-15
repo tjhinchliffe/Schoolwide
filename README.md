@@ -1,49 +1,48 @@
-# MOSAIC Schoolwide
+# MOSAIC Schoolwide (Desktop Edition)
 
 ## Download Schoolwide
 
 | Your computer | Download |
 | --- | --- |
-| Windows — 2027.0.5 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-Windows-x64-Setup.exe) |
-| Mac with an Apple chip (M-series) — 2027.0.5 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-macOS-arm64.dmg) |
-| Mac with an Intel processor — 2027.0.5 | [Intel Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.0.5/Schoolwide-2027.0.5-macOS-x64.dmg) |
+| Windows — 2027.1.0 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.0/Schoolwide-2027.1.0-Windows-x64-Setup.exe) |
+| Mac with an Apple chip (M-series) — 2027.1.0 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.0/Schoolwide-2027.1.0-macOS-arm64.dmg) |
 
-[Read what’s new in Schoolwide 2027.0.5](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.0.5)
+[Read what’s new in Schoolwide 2027.1.0](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.0)
 
-Windows and both Mac downloads are version **2027.0.5**. Your existing school data and settings are kept when updating.
+Windows and Apple Silicon Mac downloads are version **2027.1.0**. Your existing school data and settings are kept when updating.
+
+Intel Mac builds have been discontinued. Earlier Intel downloads remain available in the [release history](https://github.com/tjhinchliffe/Schoolwide/releases).
 
 ## Install or update
 
 **Windows:** if Schoolwide shows **Update Available**, open it to read what’s new. Choose **Install Now**, then **Restart and Install** when ready. A visible installation window shows progress while Schoolwide is closed. Keep your existing shortcuts, wait for installation to finish, then leave the Run option selected and choose **Finish** to reopen Schoolwide. If your current copy does not offer updates, download and run the Windows installer above.
 
-**Mac:** download the file for your Mac, open it, then drag **MOSAIC Schoolwide** into **Applications** and replace the previous copy. Open Schoolwide from Applications. Choose **About This Mac** from the Apple menu if you are unsure which Mac you have. These downloads are tested on macOS 15.
+**Apple Silicon Mac (M1 or newer):** quit Schoolwide, download the Mac file above, open it, then drag **MOSAIC Schoolwide** into **Applications** and replace the previous copy. Open Schoolwide from Applications. Choose **About This Mac** from the Apple menu if you are unsure which Mac you have.
 
-If your school computer asks for approval to install Schoolwide, contact your school IT support. [Apple’s help with opening downloaded apps](https://support.apple.com/en-au/102445) may also be useful.
+The Mac download is not Apple-notarised. If macOS or your school computer asks for approval to open or install Schoolwide, contact your school IT support. [Apple’s help with opening downloaded apps](https://support.apple.com/en-au/102445) may also be useful.
 
-## What’s new
+## What’s new since 2027.0.1
 
-**Teacher notes are now easier to bring into Schoolwide:**
+- Follow school, class and student-group progress with the new **Longitudinal Dashboard**.
+- Set up **RTI** in its own assessment step and explore students' results in the **RTI Data Wall**.
+- Configure built-in assessments and reuse settings across multiple worksheets.
+- Download and import **Anecdotal Notes** in Word or Excel, with your own notes headings and pre-populated student details.
+- Prepare **Individual Student Reports** in interactive HTML or Word, including notes and RTI flags.
+- Share updated interactive HTML snapshots with familiar filters and both Dashboard views.
+- Use the **Lexile** assessment, **Concerns** measure, Westwood results and guided Reporting to Parents imports.
+- Find the current roster under **Student List**, with its last-updated date and OSI export help.
+- Use clearer charts, table controls, assessment information and the expanded offline Help Guide.
 
-- Download the blank **Teacher Notes** template from **Manage → Assessment Types**.
-- Upload it through the normal Import screen and check student matches.
-- Choose Student Context Notes, SEN Notes or a custom-named notes column.
-- Keep the original date, teacher and class with each comment, with year-specific notes under their relevant year and year level.
-- Review or remove a notes upload from **Manage → Imported Data**, while keeping other uploads and notes added separately.
-
-Windows updates continue to show installation progress and reopen Schoolwide when you choose Finish.
-
-**Included in all downloads:**
-
-- Bring many assessments into Schoolwide from a Reporting to Parents School Based Assessment spreadsheet.
-- Import a few assessments at a time, with earlier work kept in collapsed sections.
-- Link different spreadsheet layouts, including several sheets, to existing assessments.
-- Import Westwood Addition, Subtraction, Multiplication and Division scores and calculate age-based Results.
-- Use clearer assessment choices, table headings, Dashboard tiles, chart colours and Venn diagrams.
-- Start fresh with **Delete Database**, which creates a recovery backup and keeps school settings and existing backups.
-- Find updated instructions in the offline Help Guide, with 43 tasks and 40 example screenshots.
+See the [full release notes](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.0) for major updates and smaller improvements.
 
 ## Get started
 
-Open **Configuration** to set your school details and load your current student list. Choose **Import** to bring in assessment results. Use **Dashboard**, **Table** and **Students** to explore the results, and **Welcome → Help Guide** for step-by-step instructions.
+Open **Configuration → School Profile** to set your school details, then **Student List** to load your current students. Choose **Import** to bring in assessment results. Use **Dashboard**, **Table** and **Students** to explore the results, and **Welcome → Help Guide** for step-by-step instructions.
 
 Everything needed to run Schoolwide is included. These downloads contain no school database, student list or personal settings. This repository provides public downloads; the application source remains private.
+
+## About the Desktop Edition
+
+One staff member maintains the school's master record on one computer, then shares read-only exports with authorised colleagues. Schoolwide is beta software and is not endorsed by the Department of Education WA.
+
+For questions, bugs or suggested improvements, contact Trevor Hinchliffe, School Performance branch: [trevor.hinchliffe@education.wa.edu.au](mailto:trevor.hinchliffe@education.wa.edu.au?subject=MOSAIC%20Schoolwide%20Support%20Request).
