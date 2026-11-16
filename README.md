@@ -4,12 +4,12 @@
 
 | Your computer | Download |
 | --- | --- |
-| Windows — 2027.1.0 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.0/Schoolwide-2027.1.0-Windows-x64-Setup.exe) |
-| Mac with an Apple chip (M-series) — 2027.1.0 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.0/Schoolwide-2027.1.0-macOS-arm64.dmg) |
+| Windows — 2027.1.1 | [Windows installer](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.1/Schoolwide-2027.1.1-Windows-x64-Setup.exe) |
+| Mac with an Apple chip (M-series) — 2027.1.1 | [Apple Silicon Mac download](https://github.com/tjhinchliffe/Schoolwide/releases/download/v2027.1.1/Schoolwide-2027.1.1-macOS-arm64.dmg) |
 
-[Read what’s new in Schoolwide 2027.1.0](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.0)
+[Read what’s new in Schoolwide 2027.1.1](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.1)
 
-Windows and Apple Silicon Mac downloads are version **2027.1.0**. Your existing school data and settings are kept when updating.
+Windows and Apple Silicon Mac downloads are version **2027.1.1**. Your existing school data and settings are kept when updating.
 
 Intel Mac builds have been discontinued. Earlier Intel downloads remain available in the [release history](https://github.com/tjhinchliffe/Schoolwide/releases).
 
@@ -23,6 +23,8 @@ The Mac download is not Apple-notarised. If macOS or your school computer asks f
 
 ## What’s new since 2027.0.1
 
+- Import common year-level names into the right columns, and remember matches for school-specific labels.
+- Share multi-worksheet assessments between computers, with one whole-assessment choice and every worksheet’s saved settings.
 - Follow school, class and student-group progress with the new **Longitudinal Dashboard**.
 - Set up **RTI** in its own assessment step and explore students' results in the **RTI Data Wall**.
 - Configure built-in assessments and reuse settings across multiple worksheets.
@@ -33,7 +35,7 @@ The Mac download is not Apple-notarised. If macOS or your school computer asks f
 - Find the current roster under **Student List**, with its last-updated date and OSI export help.
 - Use clearer charts, table controls, assessment information and the expanded offline Help Guide.
 
-See the [full release notes](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.0) for major updates and smaller improvements.
+See the [full release notes](https://github.com/tjhinchliffe/Schoolwide/releases/tag/v2027.1.1) for major updates and smaller improvements.
 
 ## Get started
 
